@@ -124,6 +124,3 @@ Coldd’s tickets are structured to handle support efficiently:
 
 **© 2026 coldd**
 **Intellectual Property License [here](./License).**
-
-
-Customers are savvy; staff are guides. If you don’t know something, escalate, point to resources, or give step-by-step advice. Always keep **professional tone + clarity + honesty**.
