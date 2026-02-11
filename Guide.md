@@ -71,7 +71,7 @@ Help customers:
 * Resolve common setup errors
 * Explain feature usage
 
-👉 See: [Product Support Guide](./Product-Support.md)
+👉 See: [Product Support Guide](./Specifics/Product-Support.md)
 
 ---
 
@@ -85,7 +85,7 @@ Assist with:
 
 > Staff **do not write full scripts**. Guidance only.
 
-👉 See: [Scripting Support Policy](./Scripting-Support.md)
+👉 See: [Scripting Support Policy](./Specifics/Scripting-Support.md)
 
 ---
 
@@ -99,7 +99,7 @@ Coldd’s tickets are structured to handle support efficiently:
 4. Confirm issue is understood or resolved.
 5. Close politely or escalate.
 
-👉 See: [Ticket Workflow](./Ticket-Workflow.md)
+👉 See: [Ticket Workflow](./Specifics/Ticket-Workflow.md)
 
 ---
 
@@ -114,11 +114,11 @@ Coldd’s tickets are structured to handle support efficiently:
 
 ## 📚 Related Pages
 
-* [Product Support Guide](./Product-Support.md)
-* [Scripting Support Policy](./Scripting-Support.md)
-* [Ticket Workflow](./Ticket-Workflow.md)
-* [Staff Rules & Conduct](./Staff-Guidelines.md)
-* [FAQ](./FAQ.md)
+* [Product Support Guide](./Specifics/Product-Support.md)
+* [Scripting Support Policy](./Specifics/Scripting-Support.md)
+* [Ticket Workflow](./Specifics/Ticket-Workflow.md)
+* [Staff Rules & Conduct](./Specifics/Staff-Guidelines.md)
+* [FAQ](./Specifics/FAQ.md)
 
 ---
 
